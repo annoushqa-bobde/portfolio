@@ -1,6 +1,6 @@
-# Portfolio of Code Projects
+# Portfolio of my Coding Projects
 
-Welcome to my portfolio repository! This collection showcases various data analysis and statistical modeling projects that I have completed using Python and Jupyter Notebooks. Each project demonstrates my skills in quantitative analysis, econometrics, and data visualization.
+Welcome to my portfolio repository! This collection showcases various data analysis and statistical modeling projects that I have completed using Python, Google COLAB and Jupyter Notebooks. Each project demonstrates my skills in quantitative analysis, econometrics, and data visualization.
 
 ## Repository Contents
 
